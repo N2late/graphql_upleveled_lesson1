@@ -1,0 +1,17 @@
+{
+  "name": "graphql_upleveled_lesson1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/N2late/graphql_upleveled_lesson1.git",
+  "author": "Tiago Serra <35219940+N2late@users.noreply.github.com>",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.0.1",
+    "graphql": "^16.6.0",
+    "nodemon": "^2.0.20"
+  }
+}
